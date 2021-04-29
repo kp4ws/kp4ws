@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
+I'm a full stack developer learning how to do stuff.
+
+## What I do in my free time
+I love creating games.
