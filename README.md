@@ -3,6 +3,6 @@
 -   :computer: I'm a **Software Developer**
 -   🔭 I’m currently working on various **Programming Projects**
 -   :monocle_face: My personal interests lie in **Game Development**
--   :seedling: Continually refining my **Unity Skills**
+-   :seedling: Building a strong foundation with **Unity**
 -   :heart: I love making my ideas come to **LIFE**
 -   💬 Ask me about my **Procedural Generation Blog**
