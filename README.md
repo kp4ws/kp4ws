@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](![Basic Git Commands](https://user-images.githubusercontent.com/58745400/116791519-37915180-aa78-11eb-84d0-33b0bfd7c35d.png)
-)
+![Basic Git Commands](https://user-images.githubusercontent.com/58745400/116791519-37915180-aa78-11eb-84d0-33b0bfd7c35d.png)
 
 -   :computer: I am working as **DevOps Platform Engineer**
 -   :monocle_face: Interested in everything **Cloud Native**
