@@ -4,5 +4,5 @@
 -   🔭 I’m currently working on various **Programming Projects**
 -   :monocle_face: My personal interests lie in **Game Development**
 -   :seedling: Refining my **Unity Skills**
--   :heart: Anything **Open Source**
+-   :heart: Making my ideas come to **LIFE**
 -   💬 Ask me about my **Procedural Generation Blog**
