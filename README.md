@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://user-images.githubusercontent.com/58745400/116792213-77f2ce80-aa7c-11eb-963c-0f48021d54ab.jpg" alt="Personal Logo" width="600"/>
+<img src="https://user-images.githubusercontent.com/58745400/116792445-d40a2280-aa7d-11eb-8494-919b732ed18a.jpg" alt="Personal Logo" width="600"/>
 
 -   :computer: I am working as **DevOps Platform Engineer**
 -   :monocle_face: Interested in everything **Cloud Native**
