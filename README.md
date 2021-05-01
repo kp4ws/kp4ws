@@ -1,21 +1,8 @@
-<!--
-**kp4ws/kp4ws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src="https://user-images.githubusercontent.com/58745400/116792445-d40a2280-aa7d-11eb-8494-919b732ed18a.jpg" alt="Personal Logo" width="400"/>
 
--   :computer: I'm currently a **Student Software Developer**
--   :monocle_face: Interested in everything **Cloud Native**
--   :seedling: Currently learning **Unity**
--   :heart: Open Source Software
--   :penguin: **Linux** ... it does infinite loops in 5 seconds.
+-   :computer: I'm a **Student Software Developer**
+-   🔭 I’m currently working on different **Programming Projects**
+-   :monocle_face: My personal interests lie in **Game Development**
+-   :seedling: I'm currently learning **Unity**
+-   :heart: Anything **Open Source**
+-   💬 Ask me about my **Procedural Generation Blog**
