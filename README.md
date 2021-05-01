@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](![Basic Git Commands](https://user-images.githubusercontent.com/58745400/116791519-37915180-aa78-11eb-84d0-33b0bfd7c35d.png)
+)
 
-## About Me
-I'm a full stack developer learning how to do stuff.
-
-## What I do in my free time
-I love creating games.
+-   :computer: I am working as **DevOps Platform Engineer**
+-   :monocle_face: Interested in everything **Cloud Native**
+-   :seedling: Currently learning **Golang**
+-   :heart: Open Source Software
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds.
