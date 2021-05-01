@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Basic Git Commands](https://user-images.githubusercontent.com/58745400/116791519-37915180-aa78-11eb-84d0-33b0bfd7c35d.png)
+<img src="https://user-images.githubusercontent.com/58745400/116792213-77f2ce80-aa7c-11eb-963c-0f48021d54ab.jpg" alt="Personal Logo" style="height: 100px; width:100px;"/>
 
 -   :computer: I am working as **DevOps Platform Engineer**
 -   :monocle_face: Interested in everything **Cloud Native**
--   :seedling: Currently learning **Golang**
+-   :seedling: Currently learning **Unity**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.
