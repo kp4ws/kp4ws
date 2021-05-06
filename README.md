@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/58745400/116793229-c5723a00-aa82-11eb-823f-430740d3b464.png" alt="Personal Logo" style="text-align: center; margin-bottom: 30px;"/>
+<img src="https://user-images.githubusercontent.com/58745400/117227706-afdb7800-add4-11eb-897f-c48df5445529.png" alt="Personal Logo" style="text-align: center; margin-bottom: 30px;"/>
 
 -   :computer: I'm a **Software Developer**
 -   🔭 I’m currently working on various **Programming Projects**
