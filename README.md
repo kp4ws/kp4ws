@@ -8,4 +8,6 @@
 -   💬 Ask me about my **Procedural Generation Blog**
 
 ## What I'm Working On ##
-
+- Encrypted Editor (Java GUI application)
+- Portfolio Website
+- Top-down Unity game
