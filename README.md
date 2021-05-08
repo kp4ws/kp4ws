@@ -10,3 +10,6 @@
 - Encrypted Editor (Java GUI application)
 - Portfolio Website
 - Top-down Unity game
+
+## My Links ##
+- Itch account: https://kpaws-games.itch.io/
