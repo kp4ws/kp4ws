@@ -9,7 +9,7 @@
 ## What I'm Working On ##
 - Encrypted Editor (Java GUI application)
 - Portfolio Website
-- Top Down Unity game (working in a team) 
+- Top Down Unity game (Team project) 
 
 ## My Links ##
 - Itch.io account: https://kpaws-games.itch.io/
