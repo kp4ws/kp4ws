@@ -12,4 +12,4 @@
 - Top-down Unity game
 
 ## My Links ##
-- Itch account: https://kpaws-games.itch.io/
+- itch.io account: https://kpaws-games.itch.io/
