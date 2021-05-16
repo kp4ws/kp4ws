@@ -7,10 +7,10 @@
 -   💬 Ask me about my **Procedural Generation Blog**
 
 ## What I'm Working On ##
-- Encrypted Editor (Java GUI application)
-- Portfolio Website
+- Music Scraper (Python project to remove unwanted songs from Spotify)
+- Portfolio Website (Currently working with Hugo)
 - Top Down Unity game (team project) 
-- RPG Unity game
+- RPG Unity game (following gamedev.tv tutorial)
 
 ## My Links ##
 - Itch.io account: https://kpaws-games.itch.io/
