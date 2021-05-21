@@ -7,8 +7,9 @@
 -   💬 Ask me about my **Procedural Generation Blog**
 
 ## What I'm Working On ##
-- **Music Scraper** (Python project to remove unwanted songs from Spotify)
+- **Improving Web-development Skills** (Currently using freecodecamp.org)
 - **Portfolio Website** (Currently working with Hugo)
+- **Music Scraper** (Python project to remove unwanted songs from Spotify)
 - **RPG Unity game** (Following gamedev.tv tutorial)
 
 ## My Links ##
