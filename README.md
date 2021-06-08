@@ -7,8 +7,11 @@
 -   💬 Ask me about my **Procedural Generation Blog**
 
 ## What I'm Working On ##
+
+- **Portfolio Website** (Using Hugo static site generator)
+
+## Side Projects ##
 - **Improving Web-development Skills** (Currently using freecodecamp.org)
-- **Portfolio Website** (Currently working with Hugo)
 - **Music Scraper** (Python project to remove unwanted songs from Spotify)
 - **RPG Unity game** (Following gamedev.tv tutorial)
 
