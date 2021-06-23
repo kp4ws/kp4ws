@@ -4,7 +4,6 @@
 -   :computer: **Software Developer**
 -   :video_game: **Indie Game Developer**
 -   :heart: I love making my ideas come to **LIFE**
--   💬 Ask me about my **Procedural Generation Blog**
 
 ## What I'm Working On ##
 - **Portfolio Website** (Using Hugo static site generator)
@@ -14,6 +13,15 @@
 - **Improving Web-development Skills** (Currently using freecodecamp.org)
 - **Music Scraper** (Python project to remove unwanted songs from Spotify)
 - **RPG Unity game** (Following gamedev.tv tutorial)
+
+## Featured Blogs ##
+- Procedural Generation: An Overview https://kentpawson123.medium.com/procedural-generation-an-overview-1b054a0f8d41
+![1_DruXQqV_0SQKENy91Nu3Ig](https://user-images.githubusercontent.com/58745400/123016805-9ee8c500-d388-11eb-8d5e-2881a428a232.png)
+
+---
+
+- Procedural Generation: Implementation https://kentpawson123.medium.com/procedural-generation-implementation-d9472d053cef
+![1_l-PNOpNLFxaA2TNw3lZpYw](https://user-images.githubusercontent.com/58745400/123016572-2d107b80-d388-11eb-9365-839b4491e244.png)
 
 ## My Links ##
 - **Itch.io account:** https://kpaws-games.itch.io/
