@@ -27,6 +27,3 @@
 
 ## My Links ##
 - **Itch.io account:** https://kpaws-games.itch.io/
-
-## Featured Scratch Project ##
-<iframe src="https://scratch.mit.edu/projects/259674405/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
