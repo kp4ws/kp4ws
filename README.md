@@ -15,7 +15,7 @@
 - **RPG Unity game** (Following gamedev.tv tutorial)
 - **Arduino Projects**
 
-## Featured Blogs
+## My Blogs
 #### Procedural Generation: An Overview
 - An introduction into PCG: https://kentpawson123.medium.com/procedural-generation-an-overview-1b054a0f8d41
 ![1_DruXQqV_0SQKENy91Nu3Ig](https://user-images.githubusercontent.com/58745400/123016805-9ee8c500-d388-11eb-8d5e-2881a428a232.png)
