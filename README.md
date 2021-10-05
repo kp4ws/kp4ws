@@ -11,9 +11,7 @@
 
 ## Side Projects
 - **Improving Web-development Skills** (Currently using freecodecamp.org)
-- **Music Scraper** (Python project to remove unwanted songs from Spotify)
 - **RPG Unity game** (Following gamedev.tv tutorial)
-- **Arduino Projects**
 
 ## My Blogs
 #### Procedural Generation: An Overview
