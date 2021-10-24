@@ -6,12 +6,12 @@
 -   :heart: I love making my ideas come to **LIFE**
 
 ## What I'm Working On
-- **Portfolio Website** (Using Hugo static site generator)
-- **2D_GenericPlatformer** (2D platformer game in Unity)
+- **RPG Unity game** (Following gamedev.tv tutorial)
+- **Improving JavaScript skills** (Following freecodecamp.org tutorial)
 
 ## Side Projects
-- **Improving Web-development Skills** (Currently using freecodecamp.org)
-- **RPG Unity game** (Following gamedev.tv tutorial)
+- **Portfolio Website improvements**
+- **2D_GenericPlatformer** (2D platformer game in Unity)
 
 ## My Blogs
 #### Procedural Generation: An Overview
