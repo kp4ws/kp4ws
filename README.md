@@ -6,12 +6,11 @@
 -   :heart: I love making my ideas come to **LIFE**
 
 ## What I'm Working On
-- **2D Unity Game (personal project)**
-- **Improving pixel art skills** (Following gamedev.tv tutorials)
+- **Learning 3D modelling** (Following gamedev.tv tutorials)
+- **Working on game dev prototypes** (Using Unity) 
 
 ## Side Projects
 - **Portfolio Website improvements**
-- **Learning 3D modeling**
 
 ## My Blogs
 #### Procedural Generation: An Overview
