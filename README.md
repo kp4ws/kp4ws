@@ -7,8 +7,8 @@
 
 ## What I'm Working On
 - **Learning 3D modelling** (Following gamedev.tv tutorials)
-- **Working on game dev prototypes** (Using Unity) 
-- **Mobile Application Development**
+- **Working on game dev prototypes** (Using Unity)
+- **Learning Unreal Engine**
 
 ## Side Projects
 - **Portfolio Website improvements**
