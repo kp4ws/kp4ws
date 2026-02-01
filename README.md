@@ -41,8 +41,9 @@ Additional unique features may be added as the app evolves.
 - Mobile-friendly UI and smooth performance.  
 
 **Tech Stack:**  
-- **Frontend / Mobile:** React Native with native Kotlin/Swift integrations  
-- **Backend:** FastAPI, PostgreSQL  
+- **Frontend:** React Native with native Kotlin/Swift integrations  
+- **Backend:** FastAPI   
+- **Database:** PostgreSQL  
 - **Architecture:** Modular monolithic design  
 - **Version Control:** Git  
 - **Versioning Strategy:** Semantic Versioning (MAJOR.MINOR.PATCH)  
@@ -71,13 +72,12 @@ A Talent Agency web application designed to **remove bias in the hiring process*
 **Roles Implemented:**  
 - **Candidate:** Applies to job postings.  
 - **Business Client:** Creates and manages job postings.  
-- **Advisor:** System administrator overseeing the hiring process.  
-
-**Tech Stack:**  
-- **Backend / Server:** Java, JDK 14, Apache Tomcat 9  
-- **Database:** MySQL 8  
-- **Frameworks / Libraries:** JSTL 1.2.1, EclipseLink (JPA 2.1), Gson, JavaMail  
-- **IDE / Tools:** NetBeans 12  
+- **Advisor:** System administrator overseeing the hiring process.
+  
+**Tech Stack:**
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, jQuery  
+- **Backend:** Java, JPA API, JSTL, JavaMail   
+- **Database:** MySQL   
 
 ---
 
