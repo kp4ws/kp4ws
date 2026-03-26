@@ -17,17 +17,29 @@ With experience in embedded systems, web apps, and game development, I enjoy tac
 ### 🌍 Procedural Terrain Generation
 A project created to demonstrate Procedural Terrain Generation algorithms. It features a Unity scene that dynamically creates landscapes, accompanied by a detailed technical blog post on implementation.
 - **Tech Stack:** Unity, C#, Procedural Generation Algorithms
+
+&nbsp;
+  
 ### 🎓 Full-Stack Web App – CS Degree Planner (In Progress)
 A web application designed to help CS students plan and track their degree progression. Built as the foundation of a larger student hub.
 - **Features:** JWT auth, protected routes, and interactive semester tracking.
 - **Tech Stack:** Next.js (App Router, Tailwind CSS, shadcn/ui), FastAPI (Python), PostgreSQL, SQLAlchemy.
+
+&nbsp;
+
 ### 🏆 Full-Stack Web App – Level Ground Recruitment (College Capstone)
 A Talent Agency web application designed to remove bias in the hiring process by hiding candidates’ personal data, allowing clients to hire based solely on relevant skills.
 - **Roles:** Candidate, Business Client, and Advisor (System Admin).
 - **Tech Stack:** HTML/CSS/JS, React, Java, JPA API, MySQL
+
+&nbsp;
+
 ### 🌊 FlowSpace (In Progress)
 A full-stack minimalist workspace toolkit designed as a flexible dashboard application. It helps freelancers manage their daily operations with customizable dragged tools, secure cloud syncing, and progressive web app (PWA) offline capabilities.
 - **Tech Stack:** Next.js, React, Tailwind CSS, FastAPI (Python), Supabase (PostgreSQL), Docker
+
+&nbsp;
+
 ### 🦖 2D Game – Ugga's Prehistoric Smackdown (Prototype)
 A 2D side-scrolling platformer set in prehistoric times, featuring pixel art environments and classic platforming gameplay inspired by Banjo-Kazooie and Mario.
 - **Features:** Navigate multiple levels, collect items/power-ups, and enjoy tight, fun mechanics.
