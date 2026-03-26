@@ -14,69 +14,24 @@ With experience in embedded systems, web apps, and game development, I enjoy tac
 
 ## 🌟 Featured Projects
 
-### Terrain Rendering Engine with Erosion Simulation (In Progress) 🌍
-A senior research project focused on building a 3D terrain rendering engine that visualizes real-world geospatial elevation data and simulates erosion processes over time.
-This project is driven by a fascination with computer graphics, environmental simulation, and the intersection of mathematics and visual computing.
-
-**Goals / Features:**  
-- Load and render real-world elevation data as interactive 3D terrain.
-- Implement thermal erosion simulation that dynamically modifies the terrain.
-- Explore hydraulic erosion as a stretch goal.
-
-**Tech Stack:**  
-- **Core Language:** C++  
-- **Graphics / API:** OpenGL
-- **Math Library:** GLM
-- **Development Tools:** Visual Studio, RenderDoc  
-
-### Full-Stack Web App – CS Degree Planner (In Progress) 🎓
-A web application designed to help CS students plan and track their degree progression.  
-Built as the foundation of a larger student hub, starting with a degree planner and expanding to job tracking, assignment tracking, and more.  
-**Features:**  
-- JWT-based authentication with secure password hashing.
-- Protected routes and user profile management.
-- Degree planner with course and semester tracking. *(in progress)*
-- PDF degree audit parsing for automatic plan generation. *(planned)*  
-
-**Tech Stack:**  
-- **Frontend:** Next.js (App Router, TypeScript, Tailwind CSS, shadcn/ui)  
-- **Backend:** FastAPI (Python)  
-- **Database:** PostgreSQL  
-- **ORM:** SQLAlchemy + Alembic migrations  
-- **Auth:** JWT + bcrypt  
-- **Architecture:** Domain-driven modular design  
-- **Version Control:** Git  
-- **Hosting:** Vercel (frontend), Render (backend + database)  
-- **CI/CD:** GitHub Actions *(planned)*  
-- **Development Tools:** Visual Studio Code  
-
-### 2D Game – Ugga's Prehistoric Smackdown (Prototype) 🦖
-A 2D side-scrolling platformer set in prehistoric times, with pixel art environments and classic platforming gameplay.  
-
-**Inspired by:** *Banjo-Kazooie*, *Mario*, *Brother Bear* (2003 Game Boy Advance game), and Genndy Tartakovsky's *Primal* TV series.
-
-**Gameplay:**  
-- Play as Ugga and navigate through multiple levels.  
-- Collect items and power-ups to enhance abilities.  
-- Explore levels with a focus on fun, classic platforming.  
-
-**Tech Stack:**  
-- **Game Engine:** Godot  
-- **Art / Assets:** Pixel art  
-- **Languages:** GDScript for UI and gameplay scripts, C# for advanced systems  
-
-### Full-Stack Web App – Level Ground Recruitment (College Capstone) 🏆
-A Talent Agency web application designed to **remove bias in the hiring process** by hiding candidates’ personal data, allowing business clients to hire based solely on relevant skills.  
-
-**Roles Implemented:**  
-- **Candidate:** Applies to job postings.  
-- **Business Client:** Creates and manages job postings.  
-- **Advisor:** System administrator overseeing the hiring process.
-  
-**Tech Stack:**
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, jQuery  
-- **Backend:** Java, JPA API, JSTL, JavaMail   
-- **Database:** MySQL   
+### 🌍 Procedural Terrain Generation
+A project created to demonstrate Procedural Terrain Generation algorithms. It features a Unity scene that dynamically creates landscapes, accompanied by a detailed technical blog post on implementation.
+- **Tech Stack:** Unity, C#, Procedural Generation Algorithms
+### 🎓 Full-Stack Web App – CS Degree Planner (In Progress)
+A web application designed to help CS students plan and track their degree progression. Built as the foundation of a larger student hub.
+- **Features:** JWT auth, protected routes, and interactive semester tracking.
+- **Tech Stack:** Next.js (App Router, Tailwind CSS, shadcn/ui), FastAPI (Python), PostgreSQL, SQLAlchemy.
+### 🏆 Full-Stack Web App – Level Ground Recruitment (College Capstone)
+A Talent Agency web application designed to remove bias in the hiring process by hiding candidates’ personal data, allowing clients to hire based solely on relevant skills.
+- **Roles:** Candidate, Business Client, and Advisor (System Admin).
+- **Tech Stack:** HTML/CSS/JS, React, Java, JPA API, MySQL
+### 🌊 FlowSpace (In Progress)
+A full-stack minimalist workspace toolkit designed as a flexible dashboard application. It helps freelancers manage their daily operations with customizable dragged tools, secure cloud syncing, and progressive web app (PWA) offline capabilities.
+- **Tech Stack:** Next.js, React, Tailwind CSS, FastAPI (Python), Supabase (PostgreSQL), Docker
+### 🦖 2D Game – Ugga's Prehistoric Smackdown (Prototype)
+A 2D side-scrolling platformer set in prehistoric times, featuring pixel art environments and classic platforming gameplay inspired by Banjo-Kazooie and Mario.
+- **Features:** Navigate multiple levels, collect items/power-ups, and enjoy tight, fun mechanics.
+- **Tech Stack:** Godot, GDScript (UI/Gameplay), C# (Advanced Systems)  
 
 ---
 
