@@ -20,14 +20,13 @@ A project created to demonstrate Procedural Terrain Generation algorithms. It fe
 
 &nbsp;
   
-### 🎓 Full-Stack Web App – CS Degree Planner (In Progress)
-A web application designed to help CS students plan and track their degree progression. Built as the foundation of a larger student hub.
-- **Features:** JWT auth, protected routes, and interactive semester tracking.
+### 🏔️ TrailKit: Collaborative Backpacking Gear Planner (In Progress)
+TrailKit is a structured gear-planning tool that takes the guesswork out of packing. Inspired by PCPartPicker, it uses a category-led system to ensure hikers never hit the trail missing an essential piece of gear.
 - **Tech Stack:** Next.js (App Router, Tailwind CSS, shadcn/ui), FastAPI (Python), PostgreSQL, SQLAlchemy.
 
 &nbsp;
 
-### 🏆 Full-Stack Web App – Level Ground Recruitment (College Capstone)
+### 🏆 Full-Stack Web App: Level Ground Recruitment (College Capstone)
 A Talent Agency web application designed to remove bias in the hiring process by hiding candidates’ personal data, allowing clients to hire based solely on relevant skills.
 - **Roles:** Candidate, Business Client, and Advisor (System Admin).
 - **Tech Stack:** HTML/CSS/JS, React, Java, JPA API, MySQL
@@ -40,7 +39,7 @@ A full-stack minimalist workspace toolkit designed as a flexible dashboard appli
 
 &nbsp;
 
-### 🦖 2D Game – Ugga's Prehistoric Smackdown (Prototype)
+### 🦖 2D Game: Ugga's Prehistoric Smackdown (Prototype)
 A 2D side-scrolling platformer set in prehistoric times, featuring pixel art environments and classic platforming gameplay inspired by Banjo-Kazooie and Mario.
 - **Features:** Navigate multiple levels, collect items/power-ups, and enjoy tight, fun mechanics.
 - **Tech Stack:** Godot, GDScript (UI/Gameplay), C# (Advanced Systems)  
