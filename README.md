@@ -20,8 +20,8 @@ A project created to demonstrate Procedural Terrain Generation algorithms. It fe
 
 &nbsp;
   
-### 🏔️ TrailKit: Collaborative Backpacking Gear Planner (In Progress)
-TrailKit is a structured gear-planning tool that takes the guesswork out of packing. Inspired by PCPartPicker, it uses a category-led system to ensure hikers never hit the trail missing an essential piece of gear.
+### 🏔️ Backpack Pal: Collaborative Backpacking Gear Planner (In Progress)
+Backpack Pal is a structured gear-planning tool that takes the guesswork out of packing. Inspired by PCPartPicker, it uses a category-led system to ensure hikers never hit the trail missing an essential piece of gear.
 - **Tech Stack:** Next.js (App Router, Tailwind CSS, shadcn/ui), FastAPI (Python), PostgreSQL, SQLAlchemy.
 
 &nbsp;
