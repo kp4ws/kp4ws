@@ -33,7 +33,7 @@ A Talent Agency web application designed to remove bias in the hiring process by
 
 &nbsp;
 
-### 🌊 Sci-fi Horror Game (In Progress)
+### 👾 Sci-fi Horror Game (In Progress)
 A first person sci-fi horror game set in a procedurally generated dungeon. Inspired by Metroid games, and Atic Atac.
 - **Tech Stack:** Unity
 
