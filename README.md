@@ -33,12 +33,6 @@ A Talent Agency web application designed to remove bias in the hiring process by
 
 &nbsp;
 
-### 👾 Sci-fi Horror Game (In Progress)
-A first person sci-fi horror game set in a procedurally generated dungeon. Inspired by Metroid games, and Atic Atac.
-- **Tech Stack:** Unity
-
-&nbsp;
-
 ### 🦖 2D Game: Ugga's Prehistoric Smackdown
 A 2D side-scrolling platformer set in prehistoric times, featuring pixel art environments and classic platforming gameplay inspired by Banjo-Kazooie and Mario.
 - **Features:** Navigate multiple levels, collect items/power-ups, and enjoy tight, fun mechanics.
