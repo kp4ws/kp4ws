@@ -20,8 +20,8 @@ A project created to demonstrate Procedural Terrain Generation algorithms. It fe
 
 &nbsp;
   
-### 🏔️ Backpack Pal: Collaborative Backpacking Gear Planner (In Progress)
-Backpack Pal is a structured gear-planning tool that takes the guesswork out of packing. Inspired by PCPartPicker, it uses a category-led system to ensure hikers never hit the trail missing an essential piece of gear.
+### 🏔️ Stashmatic: Collaborative Backpacking Gear Planner (In Progress)
+Stashmatic is a structured gear-planning tool that takes the guesswork out of packing. Inspired by PCPartPicker, it uses a category-led system to ensure hikers never hit the trail missing an essential piece of gear.
 - **Tech Stack:** Next.js (App Router, Tailwind CSS, shadcn/ui), FastAPI (Python), PostgreSQL, SQLAlchemy.
 
 &nbsp;
@@ -33,13 +33,13 @@ A Talent Agency web application designed to remove bias in the hiring process by
 
 &nbsp;
 
-### 🌊 FlowSpace (In Progress)
-A full-stack minimalist workspace toolkit designed as a flexible dashboard application. It helps freelancers manage their daily operations with customizable dragged tools, secure cloud syncing, and progressive web app (PWA) offline capabilities.
-- **Tech Stack:** Next.js, React, Tailwind CSS, FastAPI (Python), Supabase (PostgreSQL), Docker
+### 🌊 Sci-fi Horror Game (In Progress)
+A first person sci-fi horror game set in a procedurally generated dungeon. Inspired by Metroid games, and Atic Atac.
+- **Tech Stack:** Unity
 
 &nbsp;
 
-### 🦖 2D Game: Ugga's Prehistoric Smackdown (Prototype)
+### 🦖 2D Game: Ugga's Prehistoric Smackdown
 A 2D side-scrolling platformer set in prehistoric times, featuring pixel art environments and classic platforming gameplay inspired by Banjo-Kazooie and Mario.
 - **Features:** Navigate multiple levels, collect items/power-ups, and enjoy tight, fun mechanics.
 - **Tech Stack:** Godot, GDScript (UI/Gameplay), C# (Advanced Systems)  
